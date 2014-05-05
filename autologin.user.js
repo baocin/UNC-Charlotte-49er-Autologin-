@@ -63,7 +63,7 @@ function generateFakeEmail()
 	}
 	console.log(email);
 	
-	var email = "j@j.com";
+	//~ var email = "j@j.com";
 	return email;
 }
 
