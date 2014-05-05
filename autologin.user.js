@@ -14,7 +14,7 @@
  */
 function generateFakeEmail()
 {
-	/*char lowerChar='abcdefghijklmnopqrstuvwxyz'.charAt(code);
+	char lowerChar='abcdefghijklmnopqrstuvwxyz'.charAt(code);
 	char upperChar='ABCDEFGHIJKLMNOPQRSTUVWXYZ'.charAt(code);
 	var ascii;
 	var email;
@@ -62,7 +62,7 @@ function generateFakeEmail()
 			break;
 	}
 	console.log(email);
-	*/
+	
 	var email = "j@j.com";
 	return email;
 }
